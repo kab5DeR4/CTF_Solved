@@ -1,0 +1,5 @@
+downloaded image
+string imagename
+from base64
+usrin xor second key base 64
+using py script
