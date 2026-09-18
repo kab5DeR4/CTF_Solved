@@ -1,0 +1,14 @@
+https://mega.nz/#!LoABFK5K!0sEKbsU3sBUG8zWxpBfD1bQx_JY_MuYEWQvLrFIqWZ0
+got image hack.png from link
+from string of this image got below data
+https://mega.nz/#!z8hACJbb!vQB569ptyQjNEoxIwHrUhwWu5WCj1JWmU-OFjf90Prg -N17hGnFBfJliykJxXu8 -
+Mp real_unlock_key: Nothing Is As It SeemsU
+password: Really? Again
+
+download zip from string link
+unzip it
+found image which was decoy
+real flag in the hidden "file .Processing.cerb4" 
+unzip .Processing.cerb4.zip
+found image again
+flag was inside image at bottom-left corner
